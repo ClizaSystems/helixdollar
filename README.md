@@ -15,7 +15,6 @@ $HELIXD is a stablecoin designed to maintain a floor price of $1 (1:1 with USDC)
 📄 **[Read the Litepaper](https://docs.google.com/document/d/1hB4aJSoVFDMCEDZi4WL04EQlJnlJrCBzxJfdFwSIiWE/edit?usp=sharing)**
 
 - **Floor Price**: $1 (pegged to USDC)
-- **Upside**: Unlimited
 - **Liquidity**: Single-sided Uniswap V3 position (HELIXD only)
 - **Fee Collection**: LP fees accrue to the position NFT holder (deployer)
 
