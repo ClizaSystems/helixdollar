@@ -1,10 +1,18 @@
+<div align="center">
+  <a href="https://cliza.ai/nft">
+    <img src="helixd.png" alt="HELIXD" width="200"/>
+  </a>
+</div>
+
 # HELIXD Stablecoin Contracts
 
 Minimal smart contracts for deploying $HELIXD stablecoin on Base (or other EVM chains). This is the production pattern and it is used by Cliza's NFT Wars.
 
 ## About HELIXD
 
-$HELIXD is a stablecoin designed to maintain a floor price of $1 (1:1 with USDC) while allowing unlimited upside. It uses Uniswap V3 single-sided liquidity (SSL):
+$HELIXD is a stablecoin designed to maintain a floor price of $1 (1:1 with USDC) while allowing unlimited upside. It uses Uniswap V3 single-sided liquidity (SSL).
+
+📄 **[Read the Litepaper](https://docs.google.com/document/d/1hB4aJSoVFDMCEDZi4WL04EQlJnlJrCBzxJfdFwSIiWE/edit?usp=sharing)**
 
 - **Floor Price**: $1 (pegged to USDC)
 - **Upside**: Unlimited
