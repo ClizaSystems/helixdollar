@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://cliza.ai/nft">
-    <img src="helixd.png" alt="HELIXD" width="200"/>
+  <a href="https://helixdollar.com" target="_blank">
+    <img src="helixd.png" alt="HELIXD" width="400"/>
   </a>
 </div>
 
